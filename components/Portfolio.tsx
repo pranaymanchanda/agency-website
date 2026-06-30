@@ -17,6 +17,7 @@ const gradients = [
 // Live demo links per portfolio item (by index). Leave empty for coming-soon cards.
 const liveLinks: (string | undefined)[] = [
   "https://retail-storefront.pranaykuwait.workers.dev",
+  "https://clinic-booking-system.pranaykuwait.workers.dev",
 ];
 
 // Preview images per item (by index). Falls back to a gradient when absent.
