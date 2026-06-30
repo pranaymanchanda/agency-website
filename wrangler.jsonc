@@ -1,0 +1,12 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "agency-website",
+  "compatibility_date": "2026-06-30",
+  // Static export: serve the prebuilt ./out directory as plain assets.
+  // No Worker script — this prevents wrangler from invoking the OpenNext
+  // Next.js server adapter, which is incompatible with `output: "export"`.
+  "assets": {
+    "directory": "./out",
+    "not_found_handling": "404-page"
+  }
+}

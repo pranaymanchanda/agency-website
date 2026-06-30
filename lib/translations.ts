@@ -3,7 +3,7 @@ export type Locale = "en" | "ar";
 export const translations = {
   en: {
     dir: "ltr",
-    brand: "[Your Brand]",
+    brand: "GulfAutomation",
     nav: {
       services: "Services",
       why: "Why Us",
@@ -149,7 +149,7 @@ export const translations = {
       whatsapp: "Chat on WhatsApp",
       or: "or",
       emailUs: "Email us at",
-      emailPlaceholder: "hello@yourbrand.com",
+      emailPlaceholder: "pranaykuwait@gmail.com",
     },
     footer: {
       tagline: "Websites, AI automations and business systems for ambitious companies in Kuwait.",
@@ -159,7 +159,7 @@ export const translations = {
   },
   ar: {
     dir: "rtl",
-    brand: "[علامتك]",
+    brand: "GulfAutomation",
     nav: {
       services: "الخدمات",
       why: "لماذا نحن",
@@ -260,7 +260,7 @@ export const translations = {
       whatsapp: "تواصل عبر واتساب",
       or: "أو",
       emailUs: "راسلنا على",
-      emailPlaceholder: "hello@yourbrand.com",
+      emailPlaceholder: "pranaykuwait@gmail.com",
     },
     footer: {
       tagline: "مواقع وأتمتة ذكاء اصطناعي وأنظمة أعمال للشركات الطموحة في الكويت.",

@@ -7,8 +7,8 @@ const siteUrl = "https://yourbrand.pages.dev";
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "[Your Brand] — Websites, AI Automations & Business Systems in Kuwait",
-    template: "%s · [Your Brand]",
+    default: "GulfAutomation — Websites, AI Automations & Business Systems in Kuwait",
+    template: "%s · GulfAutomation",
   },
   description:
     "We build premium websites, AI chatbots and business automations that generate more customers for small and medium businesses in Kuwait.",
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     locale: "en_US",
     alternateLocale: "ar_KW",
     url: siteUrl,
-    siteName: "[Your Brand]",
+    siteName: "GulfAutomation",
     title: "Websites, AI Automations & Business Systems in Kuwait",
     description:
       "Premium websites, AI chatbots and automations that generate more customers for SMBs in Kuwait.",
@@ -47,7 +47,7 @@ export const viewport: Viewport = {
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "ProfessionalService",
-  name: "[Your Brand]",
+  name: "GulfAutomation",
   description:
     "Websites, AI automations and business systems for small and medium businesses in Kuwait.",
   areaServed: "Kuwait",

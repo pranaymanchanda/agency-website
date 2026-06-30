@@ -6,9 +6,9 @@ import { IconWhatsApp, IconArrow } from "./Icons";
 import Reveal from "./Reveal";
 import SectionHeader from "./SectionHeader";
 
-// TODO: replace with your real WhatsApp number (international format, no +) and email.
-const WHATSAPP_NUMBER = "96500000000";
-const CONTACT_EMAIL = "hello@yourbrand.com";
+// WhatsApp number in international format, no "+". Email for the contact card.
+const WHATSAPP_NUMBER = "12268984578";
+const CONTACT_EMAIL = "pranaykuwait@gmail.com";
 
 export default function Contact() {
   const { t } = useLanguage();
