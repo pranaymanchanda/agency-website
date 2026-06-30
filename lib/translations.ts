@@ -71,7 +71,7 @@ export const translations = {
       title: "Selected Work",
       subtitle: "A glimpse of the kind of results we deliver.",
       cta: "View case study",
-      ctaLive: "Visit live site",
+      ctaLive: "Live",
       items: [
         { title: "Retail Storefront", tag: "E-commerce" },
         { title: "Clinic Booking System", tag: "Automation" },
@@ -210,7 +210,7 @@ export const translations = {
       title: "أعمال مختارة",
       subtitle: "لمحة عن نوع النتائج التي نقدمها.",
       cta: "عرض الحالة",
-      ctaLive: "زيارة الموقع",
+      ctaLive: "مباشر",
       items: [
         { title: "متجر تجزئة", tag: "تجارة إلكترونية" },
         { title: "نظام حجز عيادة", tag: "أتمتة" },
