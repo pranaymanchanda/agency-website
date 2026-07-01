@@ -18,6 +18,7 @@ const gradients = [
 const liveLinks: (string | undefined)[] = [
   "https://retail-storefront.pranaykuwait.workers.dev",
   "https://clinic-booking-system.pranaykuwait.workers.dev",
+  "https://restaurant-chatbot.pranaykuwait.workers.dev",
 ];
 
 // Preview images per item (by index). Falls back to a gradient when absent.
