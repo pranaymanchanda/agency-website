@@ -23,6 +23,7 @@ const liveLinks: (string | undefined)[] = [
 // Preview images per item (by index). Falls back to a gradient when absent.
 const images: (string | undefined)[] = [
   "/portfolio/retail-storefront.jpg",
+  "/portfolio/clinic-booking-system.jpg",
 ];
 
 export default function Portfolio() {
