@@ -25,6 +25,7 @@ const liveLinks: (string | undefined)[] = [
 const images: (string | undefined)[] = [
   "/portfolio/retail-storefront.jpg",
   "/portfolio/clinic-booking-system.jpg",
+  "/portfolio/restaurant-chatbot.jpg",
 ];
 
 export default function Portfolio() {
